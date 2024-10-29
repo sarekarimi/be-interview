@@ -1,0 +1,10 @@
+alembic~=1.13
+black
+fastapi==0.115.4
+httpx
+isort
+mypy
+pytest
+ruff
+sqlmodel>=0.0.22
+uvicorn~=0.32
